@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="vert_juste">#2E7D32</color>
+    <color name="rouge_faux">#C62828</color>
+    <color name="texte_principal">#212121</color>
+    <color name="fond_entete">#E8EAF6</color>
+</resources>
